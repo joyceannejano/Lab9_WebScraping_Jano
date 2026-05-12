@@ -1,0 +1,10 @@
+Hello, Welcome to Python Programming!
+File saved safely with pathlib.
+This line was added!
+Learning Python is fun!
+File handling is useful.
+Practice makes perfect.
+This line was added!
+Learning Python is fun!
+File handling is useful.
+Practice makes perfect.
